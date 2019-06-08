@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1559503298 source:g:\desktop\astar\main.c
+	<stdio.h>
+	"status.h"
+	"map.h"
+	<string.h>
+
+1559503131 g:\desktop\astar\status.h
+
+1559503188 g:\desktop\astar\map.h
+	<stdlib.h>
+	"status.h"
+
+1559502940 source:g:\desktop\astar\map.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"status.h"
+	"map.h"
+	<string.h>
+
+1559503060 source:g:\desktop\astar\status.c
+	"status.h"
+
